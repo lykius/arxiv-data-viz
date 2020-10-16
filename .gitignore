@@ -1,4 +1,6 @@
-data/**
 .vscode/**
 **/*.log
 **/*.pyc
+data/archive.zip
+data/arxiv.json
+data/*.pdf
