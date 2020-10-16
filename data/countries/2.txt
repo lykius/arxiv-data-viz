@@ -1,0 +1,3600 @@
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Germany
+Sweden
+United States
+None
+Australia
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Canada
+None
+Canada
+None
+Brazil
+None
+None
+None
+None
+None
+None
+Italy
+None
+None
+United States
+None
+None
+None
+United States
+None
+None
+None
+United States
+United States
+None
+None
+None
+None
+United States
+None
+None
+United States
+None
+United States
+None
+None
+China
+China
+None
+United States
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+Canada
+None
+None
+None
+Canada
+Germany
+None
+United States
+United States
+United States
+None
+United States
+United States
+None
+None
+United States
+None
+None
+None
+None
+Canada
+None
+United Kingdom
+United States
+None
+United States
+None
+United States
+None
+None
+None
+None
+Brazil
+None
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+China
+None
+None
+Sweden
+None
+None
+None
+United States
+None
+None
+United States
+None
+None
+None
+United States
+United States
+None
+None
+United States
+None
+None
+None
+None
+None
+United States
+None
+Australia
+China
+None
+None
+United States
+Australia
+None
+None
+United States
+None
+None
+United States
+None
+United States
+None
+None
+China
+None
+Germany
+United States
+None
+None
+None
+None
+Sweden
+None
+None
+None
+Australia
+None
+None
+None
+None
+None
+None
+None
+None
+France
+Israel
+None
+None
+United States
+None
+None
+None
+United States
+None
+None
+None
+China
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+China
+None
+None
+United States
+United States
+None
+Germany
+None
+New Zealand
+None
+None
+None
+France
+None
+Saudi Arabia
+None
+None
+None
+None
+None
+None
+Brazil
+Turkey
+None
+None
+None
+None
+None
+None
+None
+None
+Singapore
+None
+France
+None
+None
+None
+None
+Netherlands
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Spain
+None
+Netherlands
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+None
+Bangladesh
+United Kingdom
+None
+United States
+None
+None
+United States
+None
+None
+United States
+Finland
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+China
+None
+None
+None
+Lebanon
+None
+Sweden
+Australia
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+India
+None
+None
+None
+None
+None
+None
+None
+None
+None
+India
+None
+None
+None
+None
+None
+None
+Japan
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Canada
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Denmark
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+Spain
+China
+None
+None
+None
+None
+None
+None
+None
+United States
+United States
+United States
+None
+None
+Canada
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Switzerland
+None
+Iceland
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+None
+Spain
+None
+United States
+None
+Switzerland
+United States
+United States
+None
+United States
+United States
+None
+Germany
+None
+United Kingdom
+None
+United States
+Estonia
+China
+None
+None
+None
+None
+None
+United States
+None
+United Kingdom
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+United States
+None
+None
+United States
+United States
+None
+None
+None
+None
+Netherlands
+None
+None
+None
+United States
+None
+None
+United States
+None
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+United States
+None
+None
+None
+United States
+None
+United Kingdom
+None
+None
+United States
+None
+United States
+United States
+None
+United States
+United States
+None
+None
+None
+Canada
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+None
+Italy
+United States
+United States
+None
+None
+Canada
+None
+None
+None
+None
+None
+None
+United States
+None
+Italy
+None
+United States
+None
+None
+Turkey
+United States
+None
+None
+United States
+Spain
+None
+Switzerland
+United States
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+Canada
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+United States
+None
+United States
+New Zealand
+Qatar
+United States
+None
+None
+United States
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+None
+Austria
+None
+None
+None
+Brazil
+None
+None
+United States
+United States
+United States
+None
+None
+None
+None
+None
+United States
+None
+None
+United States
+None
+Korea, Republic of
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Netherlands
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+United States
+None
+None
+None
+None
+United States
+None
+None
+China
+United States
+None
+None
+None
+None
+None
+Australia
+None
+None
+China
+None
+None
+None
+None
+None
+None
+Korea, Republic of
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Brazil
+None
+None
+None
+None
+None
+None
+None
+Germany
+United States
+None
+None
+None
+None
+Italy
+None
+None
+None
+None
+None
+None
+None
+Korea, Republic of
+None
+None
+None
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Germany
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Australia
+None
+Netherlands
+United States
+Luxembourg
+Italy
+None
+None
+None
+None
+Germany
+None
+None
+United Kingdom
+None
+Luxembourg
+Denmark
+United Kingdom
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Switzerland
+None
+None
+India
+None
+None
+None
+None
+None
+Israel
+None
+None
+Australia
+Ireland
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+None
+None
+Sweden
+None
+United Kingdom
+None
+None
+None
+Sweden
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+Germany
+None
+Korea, Republic of
+Belgium
+Germany
+None
+None
+Korea, Republic of
+None
+None
+None
+India
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Macedonia, the Former Yugoslav Republic of
+None
+None
+None
+None
+None
+Iran
+None
+None
+None
+Sweden
+Netherlands
+United States
+None
+None
+None
+None
+None
+None
+None
+Italy
+None
+None
+United States
+Switzerland
+None
+Austria
+None
+None
+None
+None
+Germany
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Taiwan
+United States
+None
+None
+None
+None
+None
+United States
+Korea, Republic of
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+Bangladesh
+None
+None
+None
+United States
+None
+None
+Turkey
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+United States
+None
+Italy
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+Canada
+United States
+None
+United States
+None
+None
+None
+United Kingdom
+India
+United Kingdom
+United States
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+Finland
+None
+South Africa
+United Kingdom
+None
+None
+United Kingdom
+None
+None
+None
+None
+United States
+None
+None
+China
+United States
+None
+None
+None
+United States
+United States
+None
+United States
+Germany
+None
+Canada
+None
+Germany
+None
+None
+None
+None
+None
+Turkey
+None
+None
+None
+None
+Spain
+None
+France
+None
+None
+United States
+None
+None
+None
+Iran
+None
+None
+United States
+Denmark
+Chile
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+Canada
+Canada
+United States
+None
+United States
+None
+None
+Canada
+None
+None
+None
+None
+None
+United States
+None
+None
+United States
+United States
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+Canada
+None
+Turkey
+None
+United States
+None
+None
+United States
+None
+None
+China
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+United States
+None
+None
+United States
+None
+None
+New Zealand
+None
+Canada
+None
+None
+None
+None
+China
+None
+United States
+None
+None
+None
+None
+None
+Australia
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+China
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+France
+None
+United States
+Canada
+China
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+Finland
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Sweden
+Hong Kong
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Israel
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Norway
+None
+None
+None
+None
+None
+Chile
+None
+Germany
+None
+Netherlands
+Australia
+None
+None
+None
+None
+China
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+United Kingdom
+None
+Netherlands
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+Netherlands
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United Kingdom
+Germany
+None
+Sweden
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+None
+None
+United States
+None
+None
+United States
+None
+United States
+None
+Russian Federation
+United Kingdom
+None
+None
+None
+Italy
+United States
+None
+Ireland
+None
+United States
+None
+None
+United States
+China
+United States
+None
+Italy
+None
+United Kingdom
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+United States
+Canada
+None
+United States
+United States
+None
+None
+Spain
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Korea, Republic of
+None
+None
+United States
+None
+United States
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Spain
+None
+None
+None
+None
+None
+Netherlands
+None
+None
+France
+None
+None
+United States
+None
+None
+None
+None
+None
+Colombia
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+Canada
+None
+None
+China
+None
+None
+None
+India
+None
+None
+None
+United States
+None
+Macedonia, the Former Yugoslav Republic of
+United States
+None
+None
+None
+None
+None
+None
+None
+Austria
+United States
+United States
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+China
+Canada
+United States
+None
+None
+None
+None
+Canada
+None
+United States
+None
+None
+None
+United States
+United States
+United Kingdom
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+United Kingdom
+None
+None
+None
+None
+Portugal
+None
+United States
+None
+None
+None
+United States
+None
+None
+None
+None
+United States
+United States
+None
+None
+None
+None
+None
+Norway
+None
+None
+None
+Canada
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+Austria
+None
+None
+None
+United States
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+Australia
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+Australia
+United States
+Australia
+None
+United States
+Australia
+None
+None
+None
+None
+None
+None
+None
+Australia
+None
+China
+None
+United States
+None
+None
+None
+None
+Canada
+None
+None
+None
+None
+None
+None
+None
+Korea, Republic of
+Korea, Republic of
+None
+United States
+None
+None
+None
+United States
+None
+Korea, Republic of
+None
+None
+None
+Japan
+None
+None
+United States
+None
+None
+None
+None
+None
+China
+None
+India
+Turkey
+None
+None
+None
+None
+None
+Germany
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Spain
+None
+None
+Singapore
+Singapore
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Korea, Republic of
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Germany
+None
+None
+None
+None
+None
+United States
+Nigeria
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Finland
+None
+None
+None
+Denmark
+None
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+Sweden
+United Kingdom
+None
+None
+France
+None
+None
+United States
+None
+Germany
+United Kingdom
+None
+None
+United Kingdom
+None
+None
+None
+United States
+None
+None
+None
+Iran
+None
+Korea, Republic of
+United Kingdom
+None
+None
+None
+None
+None
+None
+Israel
+None
+None
+None
+None
+None
+None
+Germany
+None
+None
+None
+None
+None
+None
+None
+None
+China
+None
+None
+None
+Poland
+Austria
+France
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+United States
+United States
+None
+None
+None
+None
+None
+Sweden
+France
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+None
+United States
+None
+None
+United Kingdom
+None
+Taiwan
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United Kingdom
+None
+Switzerland
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Israel
+None
+None
+None
+None
+Australia
+None
+United Kingdom
+None
+None
+Ireland
+None
+United States
+None
+Australia
+United States
+United States
+United States
+None
+None
+None
+United States
+United States
+United States
+None
+None
+None
+None
+Mexico
+None
+None
+None
+None
+None
+Iran
+None
+United States
+None
+United States
+None
+None
+None
+None
+United States
+United States
+United States
+United Kingdom
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+Chile
+None
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+None
+United States
+None
+None
+None
+United States
+None
+None
+None
+None
+United States
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+United Kingdom
+None
+United States
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+Russian Federation
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+Germany
+United States
+None
+United States
+None
+France
+None
+None
+None
+None
+None
+United Kingdom
+United States
+None
+None
+United States
+None
+None
+Netherlands
+United States
+United States
+United States
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Brazil
+None
+United States
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+China
+None
+None
+None
+United States
+None
+Canada
+None
+None
+None
+None
+China
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+China
+None
+China
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Germany
+None
+Korea, Republic of
+United States
+None
+France
+Israel
+None
+None
+None
+None
+None
+None
+China
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+India
+None
+None
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+Israel
+None
+None
+None
+None
+Iran
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Norway
+Canada
+None
+None
+India
+None
+None
+None
+None
+Spain
+None
+None
+None
+None
+Australia
+None
+None
+None
+United States
+None
+None
+United States
+None
+None
+None
+None
+United States
+None
+Denmark
+None
+None
+United States
+None
+None
+United States
+None
+None
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+None
+None
+United States
+None
+None
+Brazil
+None
+None
+Italy
+United Kingdom
+None
+None
+United States
+None
+None
+None
+None
+None
+United States
+Canada
+None
+None
+None
+None
+Fiji
+Korea, Republic of
+None
+None
+None
+None
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+Australia
+None
+None
+United States
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+China
+None
+None
+None
+Italy
+None
+Germany
+None
+United States
+China
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+Sweden
+None
+Greece
+China
+None
+None
+China
+None
+Italy
+None
+None
+None
+None
+None
+Switzerland
+None
+None
+None
+None
+None
+None
+None
+Australia
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+Canada
+None
+United Kingdom
+None
+None
+None
+None
+None
+None
+Norway
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United Kingdom
+United States
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+Iran
+Belgium
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+Australia
+None
+None
+None
+None
+None
+None
+None
+United States
+United States
+None
+None
+None
+None
+None
+Jordan
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+United States
+None
+Korea, Republic of
+None
+United States
+None
+United States
+United States
+Korea, Republic of
+United States
+None
+None
+None
+None
+None
+China
+United States
+None
+None
+China
+None
+None
+China
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+United States
+United States
+None
+None
+None
+None
+None
+United States
+United States
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+Austria
+Australia
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Australia
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+France
+None
+None
+None
+None
+None
+None
+Finland
+None
+None
+None
+None
+None
+None
+None
+None
+Australia
+Korea, Republic of
+Korea, Republic of
+None
+None
+None
+Netherlands
+None
+Germany
+None
+None
+None
+None
+United States
+India
+None
+None
+None
+None
+None
+None
+None
+None
+India
+None
+Germany
+None
+None
+None
+None
+India
+Korea, Republic of
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+China
+None
+None
+None
+None
+None
+Spain
+None
+None
+None
+Algeria
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Bangladesh
+None
+None
+Saudi Arabia
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Sweden
+None
+None
+None
+None
+Poland
+None
+None
+Italy
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Switzerland
+None
+None
+None
+None
+United States
+None
+None
+Australia
+Australia
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+United States
+Germany
+United States
+Switzerland
+None
+None
+None
+None
+None
+None
+None
+Spain
+None
+Switzerland
+None
+United States
+None
+None
+Iran
+Iran
+None
+United States
+None
+Germany
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Luxembourg
+None
+None
+None
+None
+None
+Sweden
+None
+None
+None
+None
+Netherlands
+United States
+United States
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+Canada
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+Canada
+None
+None
+United Kingdom
+None
+None
+United Kingdom
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+None
+United States
+None
+Germany
+None
+None
+None
+None
+United States
+United Arab Emirates
+United States
+None
+United States
+None
+None
+None
+None
+None
+United States
+United States
+Oman
+None
+None
+None
+None
+None
+None
+None
+Portugal
+None
+None
+None
+None
+None
+France
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+India
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+United States
+None
+None
+Israel
+Israel
+None
+United States
+None
+None
+None
+United States
+None
+Brazil
+None
+None
+None
+United States
+None
+None
+None
+None
+Canada
+None
+None
+None
+Canada
+None
+Italy
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+United States
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+Switzerland
+None
+None
+None
+United States
+None
+None
+United States
+None
+United States
+United States
+United States
+Canada
+None
+United States
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+Switzerland
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+Bangladesh
+United States
+None
+None
+United States
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+United States
+None
+New Zealand
+None
+None
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+Saudi Arabia
+None
+United States
+United States
+None
+None
+United States
+None
+Australia
+United States
+None
+None
+Hong Kong
+None
+None
+United States
+None
+Hong Kong
+None
+None
+United States
+Chile
+United States
+None
+None
+None
+Korea, Republic of
+None
+United States
+United States
+None
+Australia
+Philippines
+None
+None
+None
+None
+None
+Australia
+None
+None
+None
+None
+None
+None
+None
+None
+China
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Canada
+None
+None
+None
+None
+None
+None
+Turkey
+None
+None
+None
+None
+None
+None
+United States
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Poland
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Italy
+France
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+None
+Hong Kong
+None
+None
+None
+None
+None
+United States
+Netherlands
+None
+Hong Kong
+None
+None
+Switzerland
+None
+China
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+United Kingdom
+None
+Australia
+None
+United States
+Austria
+None
+None
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+None
+None
+None
+United Kingdom
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+Saudi Arabia
+None
+None
+None
+Switzerland
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+France
+United States
+Iran
+None
+None
+None
+None
+United Kingdom
+United Kingdom
+None
+None
+United States
+None
+None
+Malaysia
+None
+None
+None
+None
+None
+None
+None
+None
+Australia
+None
+United States
+None
+None
+None
+None
+None
+None
+Australia
+Ireland
+None
+None
+None
+None
+None
+Australia
+None
+None
+None
+None
+Canada
+None
+None
+None
+None
+None
+Australia
+Korea, Republic of
+None
+Italy
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+United Kingdom
+Sweden
+United Kingdom
+None
+Belgium
+None
+None
+None
+None
+None
+None
+India
+None
+None
+Germany
+Italy
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+France
+None
+None
+United Kingdom
+None
+None
+None
+Iran
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+Germany
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+Algeria
+None
+Germany
+United States
+United States
+None
+Spain
+None
+Canada
+None
+None
+None
+None
+None
+None
+Austria
+None
+None
+United States
+None
+None
+None
+United States
+None
+None
+None
+None
+None
+None
+None
+None
+United States
+None
+None
+None
+None
+Switzerland
+United States
+Brazil
+None
+None
+None
+None
+None
