@@ -2,6 +2,7 @@ import arxiv.taxonomy as tax
 from datetime import datetime
 from scholarly import scholarly
 import universities
+from difflib import SequenceMatcher
 
 
 def get_category(id):
@@ -24,11 +25,15 @@ def get_month(versions_history):
     return d.month
 
 
-def get_submitter_info(submitter):
+def get_submitter_info(submitter, paper_title):
     try:
         query = scholarly.search_author(submitter)
-        author = next(query).fill()
-        return author
+        while True:
+            author = next(query).fill()
+            for pub in author.publications:
+                title_match_score = SequenceMatcher(a=pub.bib["title"], b=paper_title).ratio()
+                if title_match_score >= 0.9:
+                    return author
     except:
         return None
 
